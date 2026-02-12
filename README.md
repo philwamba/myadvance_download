@@ -4,7 +4,8 @@ The latest debug build of the MyAdvance Android application is available here.
 
 ## Download Links
 
-- [Download My Advance APK](https://github.com/philwamba/myadvance_download/raw/main/downloads/myadvance-debug.apk)
+- [Download My Advance Debug APK](https://github.com/philwamba/myadvance_download/raw/main/downloads/myadvance-debug.apk)
+- [Download My Advance Staging APK](https://github.com/philwamba/myadvance_download/raw/main/downloads/myadvance-staging.apk)
 
 ## Installation Instructions
 
